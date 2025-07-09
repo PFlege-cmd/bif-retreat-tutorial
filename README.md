@@ -3,7 +3,10 @@ Tutorial for BIF-retreat 2025
 Welcome to the brief tutorial on test-driven development (TDD)!
 
 TDD has become the de facto standard for writing clean code. It combines several proven software-development practices in one set of actionable steps. 
-In this tutorial, you will implement the pigeonhole principle, a pattern matching approach combining exact with approximate matching approaches.
+In this tutorial, you will implement a set of string-matching algorithms, starting from simple to complex ones.
+Start of with brute-force exact matching, as described in the _test.py file. You can start with the classes defined in matcher.py
+
+You will finish by implementing  the pigeonhole principle, a pattern matching approach combining exact with approximate matching approaches.
 
 In approximate string matching (e.g., allowing up to k mismatches), the pigeonhole principle offers a simple but powerful insight:
 
